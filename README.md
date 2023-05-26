@@ -31,12 +31,4 @@ Installation
 
 	php artisan key:generate
 
-	8.Install frontend dependencies.
-
-	npm install
-
-	9.Run laravel mix
-
-	npm run watch
-
 Your local copy of question_answer is ready to access in your browser ;)
