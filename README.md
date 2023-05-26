@@ -2,7 +2,7 @@ Installation
 
 	1.Download the code by clicking Code, Download ZIP. Or if you have Git install in your machine, you can run this in your teminal.
 
-	git clone https://github.com/ssaidurr/question_answer.git
+	git clone https://github.com/ssaidurr/laravel_question_answer.git
 
 	2.Change directory to your local copy of laravel-qa in your terminal. Then install composer dependencies.
 
